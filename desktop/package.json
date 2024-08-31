@@ -14,8 +14,8 @@
     "gulp-load-plugins": "^0.8.1",
     "gulp-shell": "^0.3.0",
     "gulp-util": "^3.0.4",
-    "plist": "^1.2.0",
-    "webpack": "^1.12.14"
+    "plist": "^3.1.0",
+    "webpack": "^5.94.0"
   },
   "scripts": {
     "start": "./node_modules/.bin/gulp start",
